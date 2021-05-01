@@ -17,7 +17,8 @@ These files have been tested and used to generate a live ELK deployment on Azure
 <a href="https://github.com/SilviavonBuelow/AzureLab/tree/main/YML">-Project Related Ansible Files</a>
   
 - Screenshots of Azure Configuration
-- Linux Administration BASH scripts
+-
+<a href="https://github.com/SilviavonBuelow/AzureLab/tree/main/Commands">-Linux Administration BASH scripts
 
 This document contains the following details:
 - Description of the Topology
