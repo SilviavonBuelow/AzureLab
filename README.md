@@ -8,7 +8,7 @@ Azure Lab for High Availability Web Hosting
 The files in this repository were used to configure the network depicted below.
 
 [ELK Topology Draw.pdf](https://github.com/SilviavonBuelow/AzureLab/files/6409726/ELK.Topology.Draw.pdf)
-<figure><img src=“/Diagrams/Azure.png”><figcaption></figcaption></figure>
+<figure><img src=“/ELK_Topology.png”><figcaption></figcaption></figure>
 
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the "YALM" files may be used to install only certain pieces of it, such as Filebeat.
