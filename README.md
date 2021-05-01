@@ -7,13 +7,15 @@ Azure Lab for High Availability Web Hosting
 
 The files in this repository were used to configure the network depicted below.
 
-""C:\Users\silvo\OneDrive\Desktop\Northwestern Cybersecurity\13. Poject week ELK Stalk\ELK Topology.drawio"
+[ELK Topology Draw.pdf](https://github.com/SilviavonBuelow/AzureLab/files/6409726/ELK.Topology.Draw.pdf)
+
 
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the "YALM" files may be used to install only certain pieces of it, such as Filebeat.
 
   Name 
 - Project Related Ansible Files
+
 - Screenshoots of Azure Configuration
 - Linux Administration BASH scripts
 
