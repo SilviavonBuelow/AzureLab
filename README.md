@@ -7,7 +7,6 @@ Azure Lab for High Availability Web Hosting
 
 The files in this repository were used to configure the network depicted below.
 
-[ELK Topology Draw.pdf](https://github.com/SilviavonBuelow/AzureLab/files/6409726/ELK.Topology.Draw.pdf)
 
 <figure><img src=Images/ELK_Topology.png><figcaption></figcaption></figure>
 
@@ -16,7 +15,6 @@ These files have been tested and used to generate a live ELK deployment on Azure
 
   Name 
 - Project Related Ansible Files
-
 - Screenshoots of Azure Configuration
 - Linux Administration BASH scripts
 
